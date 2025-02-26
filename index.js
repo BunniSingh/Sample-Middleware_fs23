@@ -10,6 +10,7 @@ app.use((req, res, next)=>{
             console.log(`ERROR while calling: ${err}`);
         }else{
             if(req.method === 'GET'){
+                console.log(`Name: Banti Singh , Time ${new Date()}`);
                 next(); 
             }else{
                 res.status(404).json({
