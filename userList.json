@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Amit Sharma",
+      "email": "amit.sharma@example.com",
+      "age": 28,
+      "city": "Delhi",
+      "phone": "+91 9876543210"
+    },
+    {
+      "id": 2,
+      "name": "Priya Verma",
+      "email": "priya.verma@example.com",
+      "age": 25,
+      "city": "Mumbai",
+      "phone": "+91 9876543211"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh Kumar",
+      "email": "rajesh.kumar@example.com",
+      "age": 32,
+      "city": "Bangalore",
+      "phone": "+91 9876543212"
+    },
+    {
+      "id": 4,
+      "name": "Neha Singh",
+      "email": "neha.singh@example.com",
+      "age": 30,
+      "city": "Kolkata",
+      "phone": "+91 9876543213"
+    },
+    {
+      "id": 5,
+      "name": "Vikram Patel",
+      "email": "vikram.patel@example.com",
+      "age": 29,
+      "city": "Ahmedabad",
+      "phone": "+91 9876543214"
+    },
+    {
+      "id": 6,
+      "name": "Ankita Joshi",
+      "email": "ankita.joshi@example.com",
+      "age": 27,
+      "city": "Pune",
+      "phone": "+91 9876543215"
+    },
+    {
+      "id": 7,
+      "name": "Rohan Mehta",
+      "email": "rohan.mehta@example.com",
+      "age": 31,
+      "city": "Chennai",
+      "phone": "+91 9876543216"
+    },
+    {
+      "id": 8,
+      "name": "Swati Agarwal",
+      "email": "swati.agarwal@example.com",
+      "age": 26,
+      "city": "Hyderabad",
+      "phone": "+91 9876543217"
+    },
+    {
+      "id": 9,
+      "name": "Suresh Nair",
+      "email": "suresh.nair@example.com",
+      "age": 35,
+      "city": "Kochi",
+      "phone": "+91 9876543218"
+    },
+    {
+      "id": 10,
+      "name": "Kavita Reddy",
+      "email": "kavita.reddy@example.com",
+      "age": 24,
+      "city": "Jaipur",
+      "phone": "+91 9876543219"
+    }
+  ]
+  
